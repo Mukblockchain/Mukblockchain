@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mukblockchain
 - 👀 I’m interested in blockchain technology
-- 🌱 solidity,AI,python,go,js.
+- 🌱 solidity
 - 💞️ I’m looking to collaborate on blockchain technology.
 - 📫 How to reach me shindemukund007@gmail.com
 
